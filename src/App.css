@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+}
+#pokedex-heading{
+    text-align: center;
+    letter-spacing: 5px;
+}
+.outer-pokedex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
