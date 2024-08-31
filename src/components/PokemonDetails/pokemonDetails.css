@@ -22,7 +22,10 @@
 .pokemon-details-image{
     max-height: 200px;
     justify-content: center;
-    margin: 2rem;
+    margin: 0 5rem;
+    align-items: center;
+
+
 }
 .pokemon-details-wrapper{
     display: flex;
@@ -31,4 +34,12 @@
 }
 .more h3 {
     letter-spacing: 0.2rem;
+    font-size: 25px;
+}
+
+.more li{
+    font-size: 20px;
+    font-family: monospace;
+    list-style-type: decimal-leading-zero;
+    margin-top: 5px;
 }
